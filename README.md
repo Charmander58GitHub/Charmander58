@@ -1,2 +1,2 @@
 # Hello GitHub
-My personal repository
+# Hola soy char 
